@@ -35,8 +35,8 @@
   
 ## Projects
 ### Marketing Analytics Project: Transaction Patterns, RFM Segmentation, Sales & Churn Evaluation, Website Performance
-[Business Report 1]([[https://www.mdpi.com/1424-8220/22/8/3048](https://drive.google.com/file/d/1tnHUmZp6Setcp2R5dFiHDbC09A0ccY6N/view](https://drive.google.com/file/d/10lH3q07kpEWSdL3VvsxR29en_GOl2Qqj/view)))
-[Business Report 2]([https://www.mdpi.com/1424-8220/22/8/3048](https://drive.google.com/file/d/1tnHUmZp6Setcp2R5dFiHDbC09A0ccY6N/view))
+- [Business Report 1](https://drive.google.com/file/d/1tnHUmZp6Setcp2R5dFiHDbC09A0ccY6N/view](https://drive.google.com/file/d/10lH3q07kpEWSdL3VvsxR29en_GOl2Qqj/view))
+- [Business Report 2](https://drive.google.com/file/d/1tnHUmZp6Setcp2R5dFiHDbC09A0ccY6N/view)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
