@@ -1,4 +1,4 @@
-# data scientist
+# Data Analyst
 ### Education 
 dnfkndkfnkdfn
 
