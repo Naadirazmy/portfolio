@@ -31,7 +31,7 @@
 **Corporate Finance/ Corporate Dealer @ Kenanga Investment Bhd (_April 2014 - March 2017_)**
 - Assist in planning, implementing and monitoring of client's corporate proposals.
 - Researched potential companies, tracking global indices, currency trends, and market announcements.
-- nalyzed financial statements to assess performance and provide strategic recommendations.
+- Analyzed financial statements to assess performance and provide strategic recommendations.
   
 ## Projects
 ### Marketing Analytics Project: Transaction Patterns, RFM Segmentation, Sales & Churn Evaluation, Website Performance
