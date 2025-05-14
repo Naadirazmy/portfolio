@@ -34,5 +34,5 @@
 - Analyzed financial statements to assess performance and provide strategic recommendations.
   
 ## Projects
-### Marketing Analytics Project: Transaction Patterns, RFM Segmentation, Sales & Churn Evaluation, Website Performance
+### Marketing Analytics Project: 
 - [Project 1](https://github.com/Naadirazmy/Customer-Behaviour-Analysis.git)
